@@ -5,5 +5,5 @@ This is a demo for Git and Git-hub class.
 Shradha Khapra
 
 # Student
-Delta Student
-Sigma Student
+Delta Student.
+Sigma Student.
